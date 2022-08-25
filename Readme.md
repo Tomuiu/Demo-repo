@@ -1,3 +1,3 @@
 # Demo
 
-Just so
+Just like so
